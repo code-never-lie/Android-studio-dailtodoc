@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "910972173360",
+    "firebase_url": "https://doctor-patient-app-5d66a.firebaseio.com",
+    "project_id": "doctor-patient-app-5d66a",
+    "storage_bucket": "doctor-patient-app-5d66a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910972173360:android:a619297c379425b7",
+        "android_client_info": {
+          "package_name": "com.sda.dialadoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910972173360-5jpcuvqicg7krdmshhcnf41fsab8k6o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFUKiIpaVMzbhmVWHOeNA9iRGQJzk8wpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910972173360-5jpcuvqicg7krdmshhcnf41fsab8k6o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
